@@ -10,5 +10,5 @@
 
 Have a good day ♡               
 
-![Cute cat](https://github.com/user-attachments/assets/45bdd84f-d773-4a60-b8b9-7f0f948111a2)
+![Cute cat](https://github.com/user-attachments/assets/9979b717-cd2a-440a-9f7d-889127e74595)
 
