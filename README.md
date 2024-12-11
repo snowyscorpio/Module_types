@@ -12,10 +12,10 @@ Write a program that defines the names of 10 input files (names in an array) and
 
 If a file contains fewer lines than required, the missing lines will not be copied.
 
-The solution is included in a folder named "moduleTypes".
+> The solution is included in a folder named "moduleTypes".
 
 
-The txt files are located in a folder named "text".
+> The txt files are located in a folder named "text".
 
 ### מגישות:
 - לורן חצרוני כיתה 48/5
