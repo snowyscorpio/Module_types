@@ -15,7 +15,7 @@ If a file contains fewer lines than required, the missing lines will not be copi
 > The solution is included in a folder named "moduleTypes".
 
 
-> The txt files are located in a folder named "text".
+> The txt files are located in a folder named "text", in a folder named "moduleTypes".
 
 ### מגישות:
 - לורן חצרוני כיתה 48/5
