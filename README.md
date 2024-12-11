@@ -5,10 +5,10 @@ This repository contains a solution to a file copying exercise:
 ## Exercise: Copy Content from Multiple Files
 Write a program that defines the names of 10 input files (names in an array) and copies their content into a new file as follows:
 
-1. One line from the first file
-2. Two lines from the second file
-3. Three lines from the third file
-4. And so on...
+- One line from the first file
+- Two lines from the second file
+- Three lines from the third file
+- And so on...
 
 If a file contains fewer lines than required, the missing lines will not be copied.
 
