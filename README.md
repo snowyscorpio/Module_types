@@ -26,9 +26,6 @@ If a file contains fewer lines than required, the missing lines will not be copi
    ```bash
    node app.js
 
-### מגישות:
-- לורן חצרוני כיתה 48/5
-- סוג'וד שאני כיתה 48/5
 
 Have a good day ♡               
 
