@@ -17,7 +17,14 @@ If a file contains fewer lines than required, the missing lines will not be copi
 
 > The txt files are located in a folder named "text", in a folder named "moduleTypes".
 
-> Don't forget to use `npm install` 
+### How to Run:
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install Node.js if not already installed.
+(using `npm install`)
+4. Run the following command:
+   ```bash
+   node app.js
 
 ### מגישות:
 - לורן חצרוני כיתה 48/5
