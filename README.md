@@ -19,7 +19,7 @@ If a file contains fewer lines than required, the missing lines will not be copi
 
 ### How to Run:
 1. Clone the repository.
-2. Navigate to the project directory.
+2. Navigate to the project directory using cd in terminal.
 3. Install Node.js if not already installed.
 (using `npm install`)
 4. Run the following command:
