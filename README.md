@@ -18,7 +18,7 @@ If a file contains fewer lines than required, the missing lines will not be copi
 > The txt files are located in a folder named "text", in a folder named "moduleTypes".
 
 ### How to Run:
-1. Clone the repository.
+1. Download the project as a ZIP file and extract it.
 2. Navigate to the project directory using cd in terminal.
 3. Install Node.js if not already installed.
 (using `npm install`)
